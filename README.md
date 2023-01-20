@@ -19,11 +19,20 @@ Write your own steps
 
 ## PROGRAM
 
-Include your code here
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py createsuperuser
+Username:
+admin Email address: admin@example.com
+Password:
+Password (again):
+
+
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![Screenshot (31)](https://user-images.githubusercontent.com/118707852/213608547-d4ed387d-5252-4bdc-b1e6-c08ed639f384.png)
 
 
 ## RESULT
+program executed successfully.
